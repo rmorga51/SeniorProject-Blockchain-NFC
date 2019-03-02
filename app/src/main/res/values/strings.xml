@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NFCapp_0.4</string>
+    <string name="enter_some_text">Enter some text...</string>
+    <string name="name">Name</string>
+</resources>
